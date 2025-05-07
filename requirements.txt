@@ -1,0 +1,6 @@
+tensorflow       # Includes Keras
+numpy>=1.23.0
+matplotlib>=3.7.0
+pillow                   # For image loading/processing
+scikit-learn             # For preprocessing and evaluation
+opencv-python                   # For image processing
